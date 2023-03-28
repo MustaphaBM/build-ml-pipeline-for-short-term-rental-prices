@@ -1,3 +1,6 @@
+WANDB public project Link : https://wandb.ai/benhajm-mustapha/nyc_airbnb?workspace=user-benhajm-mustapha
+
+GITHUB project Link : https://github.com/MustaphaBM/build-ml-pipeline-for-short-term-rental-prices
 # Build an ML Pipeline for Short-Term Rental Prices in NYC
 You are working for a property management company renting rooms and properties for short periods of 
 time on various rental platforms. You need to estimate the typical price for a given property based 
@@ -72,7 +75,7 @@ You should see a message similar to:
 wandb: Appending key for api.wandb.ai to your netrc file: /home/[your username]/.netrc
 ```
 
-WANDB public project Link : https://wandb.ai/benhajm-mustapha/nyc_airbnb?workspace=user-benhajm-mustapha
+
 ### Cookie cutter
 In order to make your job a little easier, you are provided a cookie cutter template that you can use to create 
 stubs for new pipeline components. It is not required that you use this, but it might save you from a bit of 
